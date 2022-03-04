@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "472373314168",
+    "project_id": "blacklionchat-9be79",
+    "storage_bucket": "blacklionchat-9be79.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472373314168:android:140cb0265ef364be80238d",
+        "android_client_info": {
+          "package_name": "com.afkaslan.blacklionchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472373314168-bc073hvq3j68pohe41n2satv3j0n9j82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs6FRpkC1HweYJ3-wa_9PtFTCUGsrQQxI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472373314168-bc073hvq3j68pohe41n2satv3j0n9j82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
